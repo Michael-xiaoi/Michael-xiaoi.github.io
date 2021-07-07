@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michael-xiaoi.github.io</id>
     <title>米奇の日常</title>
-    <updated>2021-07-07T15:35:34.760Z</updated>
+    <updated>2021-07-07T15:36:34.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michael-xiaoi.github.io"/>
     <link rel="self" href="https://Michael-xiaoi.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Michael-xiaoi.github.io/images/avatar.png</logo>
     <icon>https://Michael-xiaoi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 米奇の日常</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年7月7日]]></title>
+        <id>https://Michael-xiaoi.github.io/RJ44sVNK-/</id>
+        <link href="https://Michael-xiaoi.github.io/RJ44sVNK-/">
+        </link>
+        <updated>2021-07-07T15:35:47.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>忧郁的一天。本来没有什么，但是还是要给自己徒增烦恼。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Michael-xiaoi.github.io/hello-gridea/</id>
