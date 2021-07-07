@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Michael-xiaoi.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-07T15:19:06.019Z</updated>
+    <title>米奇の日常</title>
+    <updated>2021-07-07T15:29:02.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Michael-xiaoi.github.io"/>
     <link rel="self" href="https://Michael-xiaoi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>沙雕而不失风度</subtitle>
     <logo>https://Michael-xiaoi.github.io/images/avatar.png</logo>
     <icon>https://Michael-xiaoi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 米奇の日常</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Michael-xiaoi.github.io/post/hello-gridea/</id>
-        <link href="https://Michael-xiaoi.github.io/post/hello-gridea/">
+        <id>https://Michael-xiaoi.github.io/hello-gridea/</id>
+        <link href="https://Michael-xiaoi.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
